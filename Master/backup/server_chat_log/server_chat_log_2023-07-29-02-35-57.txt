@@ -1,0 +1,4 @@
+[00:01:45]: [Join Announcement] Shiradan
+[00:03:07]: [Death Announcement] Shiradan 死于： 蜘蛛。她变成了可怕的鬼魂！
+[00:03:46]: [Resurrect Announcement] Shiradan 复活自： 恶作剧.
+[00:05:45]: [Leave Announcement] Shiradan

@@ -1,0 +1,3 @@
+[00:06:04]: [Join Announcement] Shiradan
+[00:10:56]: [Skin Announcement] Shiradan body_flannel_grey_silver
+[00:14:36]: [Leave Announcement] Shiradan

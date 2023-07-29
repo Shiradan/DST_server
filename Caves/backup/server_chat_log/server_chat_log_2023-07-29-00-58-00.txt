@@ -1,0 +1,11 @@
+[00:14:45]: [Join Announcement] Shiradan
+[00:15:48]: [Leave Announcement] Shiradan
+[07:05:21]: [Join Announcement] AR
+[07:05:45]: [Join Announcement] Shiradan
+[07:47:39]: [Join Announcement] 1195959615
+[07:48:53]: [Leave Announcement] 1195959615
+[07:59:06]: [Leave Announcement] Shiradan
+[07:59:07]: [Leave Announcement] AR
+[08:12:07]: [Join Announcement] Swizzle
+[08:12:47]: [Say] (KU_GWmhwA9k) Swizzle: 11
+[08:18:00]: [Leave Announcement] Swizzle
