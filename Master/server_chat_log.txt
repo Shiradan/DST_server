@@ -1,2 +1,2 @@
-[00:05:05]: [Join Announcement] Shiradan
-[00:10:56]: [Leave Announcement] Shiradan
+[00:01:54]: [Join Announcement] Shiradan
+[00:02:22]: [Leave Announcement] Shiradan
